@@ -1,7 +1,7 @@
 # Jude Correll
 ## *Undergraduate in Physics at Haverford College*
 
-###[My CV](https://github.com/judecorrell/judecorrell.github.io/raw/master/cv/JudeCorrellCV.pdf)
+### [My CV](https://github.com/judecorrell/judecorrell.github.io/raw/master/cv/JudeCorrellCV.pdf)
 ---
 ### *About Me*
 
