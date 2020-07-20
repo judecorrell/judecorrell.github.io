@@ -21,4 +21,4 @@ Dover Sherborn High School - Dover, MA; Class of 2019
 ---
 ### *Contact*
 
-email: djcorrell@haverford.edu
+*email*: djcorrell@haverford.edu
