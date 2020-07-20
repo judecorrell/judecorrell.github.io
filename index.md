@@ -18,6 +18,6 @@ Major: Physics with a Biophysics Area of Concentration | Minor: Music
 Dover Sherborn High School - Dover, MA; Class of 2019
 
 ---
-### *Conctact*
+### *Contact*
 
 email: djcorrell@haverford.edu
