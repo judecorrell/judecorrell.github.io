@@ -11,6 +11,7 @@ Hello! I am an 18 year old, rising sophomore at Haverford College, PA, studying 
 
 **2019-Present**
 Haverford College - Haverford, PA; Class of 2023
+
 Current Degree Track:
 Major: Physics with a Biophysics Area of Concentration | Minor: Music
 
