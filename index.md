@@ -1,6 +1,5 @@
 # Jude Correll
+## *Undergradute in Physics at Haverford College*
 
-## Hello Logan
-### I did not have to pay...
-
+hr /
 
