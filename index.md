@@ -4,7 +4,7 @@
 ---
 ### *About Me*
 
-Hello! I am a rising sophomore at Haverford College, PA, studying Physics, and hoping to concentrate in Biophysics and minor in Music. I was born and raised outside of Boston, MA, and enjoy playing musical instruments, practicing martial arts, and sleeping.
+Hello! I am an 18 year old, rising sophomore at Haverford College, PA, studying Physics, and hoping to concentrate in Biophysics and minor in Music. I was born and raised outside of Boston, MA, and enjoy playing musical instruments, practicing martial arts, and sleeping.
 
 ---
 ### *Education*
